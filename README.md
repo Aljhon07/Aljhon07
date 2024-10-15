@@ -3,8 +3,4 @@
 
 - 🌱 I’m currently learning **React Native and Python**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljhon07&show_icons=true&locale=en&layout=compact" alt="aljhon07" /></p>
